@@ -136,7 +136,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5865582132592328312, guid: f2e2589b60de00f4f9c89cb92d3807ed, type: 3}
       propertyPath: _axisOrButtonNumber
-      value: 16
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 5865582132592328313, guid: f2e2589b60de00f4f9c89cb92d3807ed, type: 3}
       propertyPath: m_Pivot.x
@@ -246,7 +246,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5865582132592328312, guid: f2e2589b60de00f4f9c89cb92d3807ed, type: 3}
       propertyPath: _axisOrButtonNumber
-      value: 14
+      value: 11
       objectReference: {fileID: 0}
     - target: {fileID: 5865582132592328313, guid: f2e2589b60de00f4f9c89cb92d3807ed, type: 3}
       propertyPath: m_Pivot.x
@@ -360,7 +360,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5865582132592328312, guid: f2e2589b60de00f4f9c89cb92d3807ed, type: 3}
       propertyPath: _axisOrButtonNumber
-      value: 16
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 5865582132592328313, guid: f2e2589b60de00f4f9c89cb92d3807ed, type: 3}
       propertyPath: m_Pivot.x
@@ -579,7 +579,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5865582132592328312, guid: f2e2589b60de00f4f9c89cb92d3807ed, type: 3}
       propertyPath: _axisOrButtonNumber
-      value: 13
+      value: 19
       objectReference: {fileID: 0}
     - target: {fileID: 5865582132592328313, guid: f2e2589b60de00f4f9c89cb92d3807ed, type: 3}
       propertyPath: m_Pivot.x
@@ -689,7 +689,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5865582132592328312, guid: f2e2589b60de00f4f9c89cb92d3807ed, type: 3}
       propertyPath: _axisOrButtonNumber
-      value: 12
+      value: 16
       objectReference: {fileID: 0}
     - target: {fileID: 5865582132592328313, guid: f2e2589b60de00f4f9c89cb92d3807ed, type: 3}
       propertyPath: m_Pivot.x
@@ -803,7 +803,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5865582132592328312, guid: f2e2589b60de00f4f9c89cb92d3807ed, type: 3}
       propertyPath: _axisOrButtonNumber
-      value: 12
+      value: 16
       objectReference: {fileID: 0}
     - target: {fileID: 5865582132592328313, guid: f2e2589b60de00f4f9c89cb92d3807ed, type: 3}
       propertyPath: m_Pivot.x
@@ -1165,7 +1165,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5865582132592328312, guid: f2e2589b60de00f4f9c89cb92d3807ed, type: 3}
       propertyPath: _axisOrButtonNumber
-      value: 14
+      value: 11
       objectReference: {fileID: 0}
     - target: {fileID: 5865582132592328313, guid: f2e2589b60de00f4f9c89cb92d3807ed, type: 3}
       propertyPath: m_Pivot.x
@@ -1487,7 +1487,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5865582132592328312, guid: f2e2589b60de00f4f9c89cb92d3807ed, type: 3}
       propertyPath: _axisOrButtonNumber
-      value: 17
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 5865582132592328313, guid: f2e2589b60de00f4f9c89cb92d3807ed, type: 3}
       propertyPath: m_Pivot.x
@@ -2651,7 +2651,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5865582132592328312, guid: f2e2589b60de00f4f9c89cb92d3807ed, type: 3}
       propertyPath: _axisOrButtonNumber
-      value: 19
+      value: 17
       objectReference: {fileID: 0}
     - target: {fileID: 5865582132592328313, guid: f2e2589b60de00f4f9c89cb92d3807ed, type: 3}
       propertyPath: m_Pivot.x
@@ -3103,7 +3103,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5865582132592328312, guid: f2e2589b60de00f4f9c89cb92d3807ed, type: 3}
       propertyPath: _axisOrButtonNumber
-      value: 15
+      value: 13
       objectReference: {fileID: 0}
     - target: {fileID: 5865582132592328313, guid: f2e2589b60de00f4f9c89cb92d3807ed, type: 3}
       propertyPath: m_Pivot.x
@@ -3213,7 +3213,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5865582132592328312, guid: f2e2589b60de00f4f9c89cb92d3807ed, type: 3}
       propertyPath: _axisOrButtonNumber
-      value: 19
+      value: 17
       objectReference: {fileID: 0}
     - target: {fileID: 5865582132592328313, guid: f2e2589b60de00f4f9c89cb92d3807ed, type: 3}
       propertyPath: m_Pivot.x
@@ -3437,7 +3437,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5865582132592328312, guid: f2e2589b60de00f4f9c89cb92d3807ed, type: 3}
       propertyPath: _axisOrButtonNumber
-      value: 17
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 5865582132592328313, guid: f2e2589b60de00f4f9c89cb92d3807ed, type: 3}
       propertyPath: m_Pivot.x
@@ -3951,7 +3951,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5865582132592328312, guid: f2e2589b60de00f4f9c89cb92d3807ed, type: 3}
       propertyPath: _axisOrButtonNumber
-      value: 11
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 5865582132592328313, guid: f2e2589b60de00f4f9c89cb92d3807ed, type: 3}
       propertyPath: m_Pivot.x
@@ -4061,7 +4061,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5865582132592328312, guid: f2e2589b60de00f4f9c89cb92d3807ed, type: 3}
       propertyPath: _axisOrButtonNumber
-      value: 13
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 5865582132592328313, guid: f2e2589b60de00f4f9c89cb92d3807ed, type: 3}
       propertyPath: m_Pivot.x
@@ -4419,7 +4419,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5865582132592328312, guid: f2e2589b60de00f4f9c89cb92d3807ed, type: 3}
       propertyPath: _axisOrButtonNumber
-      value: 20
+      value: 19
       objectReference: {fileID: 0}
     - target: {fileID: 5865582132592328313, guid: f2e2589b60de00f4f9c89cb92d3807ed, type: 3}
       propertyPath: m_Pivot.x
@@ -5112,7 +5112,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5865582132592328312, guid: f2e2589b60de00f4f9c89cb92d3807ed, type: 3}
       propertyPath: _axisOrButtonNumber
-      value: 11
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 5865582132592328313, guid: f2e2589b60de00f4f9c89cb92d3807ed, type: 3}
       propertyPath: m_Pivot.x
@@ -5446,7 +5446,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5865582132592328312, guid: f2e2589b60de00f4f9c89cb92d3807ed, type: 3}
       propertyPath: _axisOrButtonNumber
-      value: 15
+      value: 13
       objectReference: {fileID: 0}
     - target: {fileID: 5865582132592328313, guid: f2e2589b60de00f4f9c89cb92d3807ed, type: 3}
       propertyPath: m_Pivot.x
